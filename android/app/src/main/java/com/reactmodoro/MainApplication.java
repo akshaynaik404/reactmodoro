@@ -47,11 +47,6 @@ public class MainApplication extends Application implements ReactApplication {
   public void onCreate() {
     super.onCreate();
     SoLoader.init(this, /* native exopackage */ false);
-  }
-
-  @Override
-  public void onCreate() {
-    super.onCreate();
     FacebookSdk.sdkInitialize(getApplicationContext());
   }
 }

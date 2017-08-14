@@ -3304,6 +3304,10 @@ react-native-fbsdk@0.6.0:
   version "0.6.0"
   resolved "https://registry.yarnpkg.com/react-native-fbsdk/-/react-native-fbsdk-0.6.0.tgz#08fdc00e9ca777f724a70029a5b1c3794b49b882"
 
+"react-native-fbsdk@https://github.com/facebook/react-native-fbsdk.git#master":
+  version "0.6.1"
+  resolved "https://github.com/facebook/react-native-fbsdk.git#f0523e7f62ad82b8c1d83275c51d70a93aa594cd"
+
 react-native@0.47.1:
   version "0.47.1"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.47.1.tgz#b4a1f1e92a57ff5868de2bfa9d8ece3192635242"
